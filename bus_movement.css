@@ -1,0 +1,20 @@
+#map{
+    height:500px;
+    margin: auto;
+    width: 100%;
+}
+body{
+  background-color: black;
+  background-image: url(bricks.jpg);
+  background-size: 100%;
+  background-repeat: none;
+}
+#header{
+    color:darkolivegreen;
+    text-align: center;
+}
+body { margin: 0; padding: 0; }
+/*.map-overlay{
+    position: absolute;
+    left:0;
+    padding: 10px;}*/
