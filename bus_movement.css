@@ -1,0 +1,15 @@
+#map{
+    width:1024px; 
+    height:768px;
+    margin: auto;
+}
+body{
+  background-color: black;
+  background-image: url(bricks.jpg);
+  background-size: 100%;
+  background-repeat: none;
+}
+#header{
+    color:darkolivegreen;
+    text-align: center;
+}   
